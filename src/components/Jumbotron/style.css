@@ -1,0 +1,15 @@
+p {
+    font-size:1.5vw;
+    font-weight:bold;
+    }
+    
+    .jumbotron {
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fefefd;
+    margin-bottom:0px;
+    padding-top:30px;
+    padding-bottom:30px;
+    
+    }

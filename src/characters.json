@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "image": "/images/goku.png"
+  },
+  {
+    "id": 2,
+    "name": "Cell",
+    "image": "/images/cell.jpg"  },
+  {
+    "id": 3,
+    "name": "Freeza",
+    "image": "/images/freeza.png"  },
+  {
+    "id": 4,
+    "name": "Gohan",
+    "image": "/images/gohan.jpg"  },
+  {
+    "id": 5,
+    "name": "Gotenks",
+    "image": "/images/gotenks.jpg"  },
+  {
+    "id": 6,
+    "name": "King Kai",
+    "image": "/images/kingkai.png"  },
+  {
+    "id": 7,
+    "name": "Krillin",
+    "image": "/images/krillin.png"  },
+  {
+    "id": 8,
+    "name": "Majin Buu",
+    "image": "/images/majinbuu.png"  },
+  {
+    "id": 9,
+    "name": "Piccolo",
+    "image": "/images/piccolo.jpg"  },
+  {
+    "id": 10,
+    "name": "Master Roshi",
+    "image": "/images/roshi.jpg"  },
+  {
+    "id": 11,
+    "name": "Trunks",
+    "image": "/images/trunks.jpg"  },
+  {
+    "id": 12,
+    "name": "Vegeta",
+    "image": "/images/vegeta.jpg"  }
+]

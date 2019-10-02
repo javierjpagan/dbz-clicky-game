@@ -1,0 +1,14 @@
+.navbar {
+    background-color:#22262a;
+    color: #fefefd;
+    height:75px;
+    font-size:2vw;
+    
+    
+    }
+    
+    a {
+        font-size:2vw;
+        font-weight:strong;
+        color: #fefefd;   
+    }
